@@ -1,0 +1,13 @@
+.calculator__buttons {
+    display: flex;
+    flex-direction: column;
+}
+
+.buttons-container {
+    flex-direction: row;
+    display: flex;
+}
+
+.digit,.operator {
+    padding: 1rem;
+}
